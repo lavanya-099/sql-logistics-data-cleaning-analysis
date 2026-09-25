@@ -39,4 +39,4 @@ To ensure total data integrity for analysis, the following cleaning steps were e
 
 ## 🛠️ Tech Stack & SQL Techniques Used
 * **Database Management System:** SQL Server (SSMS)
-* **SQL Techniques:** CTEs, Window Functions (LAG(), ROW_NUMBER(), Avg()), Data Type Conversion (TRY_CAST, TRY_CONVERT), Conditional Aggregation (CASE statements), Multi-Table Joins(LEFT, INNER).
+* **SQL Techniques:** CTEs, Window Functions (LAG(), ROW_NUMBER(), AVG()), Data Type Conversion (TRY_CAST, TRY_CONVERT), Conditional Aggregation (CASE statements), Multi-Table Joins(LEFT, INNER).
